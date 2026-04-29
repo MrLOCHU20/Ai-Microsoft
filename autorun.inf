@@ -1,0 +1,5 @@
+[autorun]
+open=setup.bat
+action=Setup My AI
+label=MyAI Setup
+icon=Backups\myai.exe
