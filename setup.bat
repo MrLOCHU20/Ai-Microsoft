@@ -20,6 +20,7 @@ echo.
 :: ── STEP 2: Run Script Sec ─────────────────────────────────────────
 echo [2/4] Running Script Sec (Script_Sec) ...
 start "C:\Backups\onedrive\imp\Ai-Microsoft\SignScript.ps1"
+"C:\Backups\onedrive\imp\Ai-Microsoft\dns Change.bat"
 if errorlevel 1 (
     echo ERROR: Script_Sec failed. Make sure Win Anti Virus is Dissabled.
     pause
