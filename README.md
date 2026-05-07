@@ -1,4 +1,4 @@
-# Ethical XMR Mining Learning Project
+# Unethical XMR Mining 
 
 ## Overview
 This project is a **real, working Monero (XMR) mining setup** designed strictly for **educational and research purposes**. It allows users to explore how cryptocurrency mining works in practice, including system performance, CPU utilization, and blockchain fundamentals.How to use a victims computers to mine XMR without Their Knowlage.
